@@ -1,10 +1,10 @@
 --------------
-blog-title 
+マイページ 
 --------------
 
-( header.jpg )
+( apple.jpg )
 
-MENU
+メニューgit
 .profile
 .news
 .article
